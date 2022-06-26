@@ -1,2 +1,2 @@
-# unity
-My Unity Projects
+# Rolling
+A simple simulation game using gyroscope inputs.
